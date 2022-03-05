@@ -1,7 +1,11 @@
-# Repository Introduction
+# Instructor Example is not to be copied
 
-This repository contains a collection of code for students that take the CSE 341 course at Brigham Young University - Idaho.
+This is an example of a solution to demonstrate to students various ways they could set up their projects. Do not copy from this project, or clone it to build your own application. Use it to learn.
 
-## How to use this repository
+## API Documentation
 
-Each branch contains a collection of code for a given assignment or class activity. Select a branch, and then either clone, fork, or download the zip file to access the files on your computer.
+https://birch-portfolio-builder.herokuapp.com/api-docs
+
+### Video Explanation
+
+[Video Walkthrough to share with students](https://youtu.be/AIi1gZOsRmY)
