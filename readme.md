@@ -1,7 +1,9 @@
-# Repository Introduction
+# Lesson 5 Class Activity
 
-This repository contains a collection of code for students that take the CSE 341 course at Brigham Young University - Idaho.
+## How to run it
 
-## How to use this repository
+Run npm install and npm start in the terminal. You'll need a database to connect to and an .env file with MONGODB_URI
 
-Each branch contains a collection of code for a given assignment or class activity. Select a branch, and then either clone, fork, or download the zip file to access the files on your computer.
+### Video
+
+[Video Walkthrough](https://youtu.be/8QENCujndUQ)
