@@ -5,11 +5,9 @@
     "description": "Temple API",
     "version": "1.0.0"
   },
-  "host": "cse341-instructor.herokuapp.com",
+  "host": "localhost:8083",
   "basePath": "/",
-  "schemes": [
-    "https"
-  ],
+  "schemes": ["http"],
   "paths": {
     "/api-docs": {
       "get": {
@@ -21,9 +19,7 @@
     "/contacts/": {
       "get": {
         "description": "",
-        "produces": [
-          "application/json"
-        ],
+        "produces": ["application/json"],
         "parameters": [],
         "responses": {
           "200": {
@@ -72,9 +68,7 @@
     "/contacts/{id}": {
       "get": {
         "description": "",
-        "produces": [
-          "application/json"
-        ],
+        "produces": ["application/json"],
         "parameters": [
           {
             "name": "id",
