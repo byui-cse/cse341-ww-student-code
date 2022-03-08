@@ -1,0 +1,31 @@
+{
+  "name": "REST-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix",
+    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc",
+    "swagger": "node ./swagger.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^16.0.0",
+    "express": "^4.16.3",
+    "mongodb": "^4.4.0",
+    "swagger-ui-express": "^4.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^1.18.4",
+    "prettier": "^2.5.1",
+    "swagger-autogen": "^2.19.0"
+  }
+}
