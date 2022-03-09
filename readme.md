@@ -1,7 +1,7 @@
-# Repository Introduction
+# Branch Introduction
 
-This repository contains a collection of code for students that take the CSE 341 course at Brigham Young University - Idaho.
+This is the frontend project that will be functional once the backend code for the lesson 7 class activity is complete
 
 ## How to use this repository
 
-Each branch contains a collection of code for a given assignment or class activity. Select a branch, and then either clone, fork, or download the zip file to access the files on your computer.
+Put the code on your computer and open it with live server in the browser. You won't see much unless your backend is working and running on localhost:8080.

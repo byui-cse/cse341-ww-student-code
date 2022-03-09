@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	display: flex;
+	justify-content: space-between;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 1rem 2rem;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+main {
+	margin: 1rem 0;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+.card {
+	width: 50%;
+	border: 5px solid black;
+}
+
+img {
+	width: 300px;
+}
+
+p {
+	margin: 1rem;
+}
