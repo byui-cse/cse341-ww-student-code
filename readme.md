@@ -1,7 +1,11 @@
-# Repository Introduction
+# Lesson 7 Class Solution
 
-This repository contains a collection of code for students that take the CSE 341 course at Brigham Young University - Idaho.
+This is the completed collection of code for the lesson 7 class activity
 
-## How to use this repository
+## Video
 
-Each branch contains a collection of code for a given assignment or class activity. Select a branch, and then either clone, fork, or download the zip file to access the files on your computer.
+[Video walkthrough](https://youtu.be/n91X_svS4BQ)
+
+### Disclaimer
+
+The .env file is not included in the gitignore currently only to show students what it will look like. Outside of this tutorial, anytime you push to git, .env files should never be included, they should always be listed in the .gitignore.

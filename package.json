@@ -1,0 +1,17 @@
+{
+	"name": "week09",
+	"version": "1.0.0",
+	"description": "cse341 week09 prove assignment",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.0.0",
+		"express": "^4.17.2",
+		"jsonwebtoken": "^8.5.1"
+	}
+}

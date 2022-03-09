@@ -1,0 +1,12 @@
+GET http://localhost:8080/userInfo
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbmRoOGVyNGV2ZXJAZ21haWwuY29tIiwicGFzc3dvcmQiOiJyb3VnaE5jb2Fyc2UiLCJpYXQiOjE2NDUxMTY0NjN9.o4Ju-74cVywwoXqJ3G1Fw5S8ehqINEm2nA5b0j2WqoE
+
+###
+
+POST http://localhost:8080/login
+Content-Type: application/json
+
+{
+    "email": "sandh8er4ever@gmail.com",
+	"password": "roughNcoarse"
+}
