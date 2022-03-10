@@ -1,14 +1,11 @@
-# CSE 341 Lesson 1 Class Activity Steps
+# CSE 341 Lesson 3 Class Activity Steps
 
-- Create a new folder on your computer and open it in VS Code
-- Open the terminal and run: npm init
-- Go through the CLI prompts to create the package.json
-- Whatever filename you chose for your main file (index, app, server, etc.), create that file. For this example, we'll use server.js
-- Create an express app that listens on either process.env.port or 3000
-- Don't forget to run npm install expresss
-- Now is a good time to run npm start, so you can start seeing errors if there are any
-- Create a controllers folder with a file called index.js
-- Create a single function that will return data
-- Create a routes folder with a file called index.js
-- Create a single route in that file that will call the function in the controller that you made
-- This can all be tested in the browser going to localhost:3000
+There isn't an official starting zip file for this class activity. Instead, you should use your assignment submission for lesson 2. If, for whatever reason, that is not an option, you may adopt [this code](https://github.com/byui-cse/cse341-code-student/tree/L02-personal-solution) as a starting point for your project this week and for this class activity.
+
+Follow the steps listed in [this article](https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b).
+
+A couple of things to look out for...
+
+- Don't include anything about React
+- Select Node and JSON (not Browser and JavaScript)
+- Add "jest": true
