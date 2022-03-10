@@ -1,18 +1,6 @@
-# CSE 341 Lesson 5 Class Activity Steps
+# CSE 341 Lesson 6 Class Activity Steps
 
-- Create a GitHub repository.
-- Clone it on your computer and open it in VS Code
-- Run npm init to start a new node project
-- Create a simple server.js file like we've done previously
-- In your same MongoDB account, create a new database
-- Create an .env file with your MONGODB_URI
-- Connect to MongoDB in your node project
-- Create a Swagger.json that contains a single API route that represents the following GET request:  
-  [https://localhost:8080?name=sarah](https://localhost:8080?name=sarah). This is just to give you practice designing a swagger api route without generating one from existing code. This will not connect to the database, and will consist of a very simple node api route.
-- Add the swagger route to your node project routes, and test it locally.
-- Push to GitHub
-- Create a new Heroku project, and connect it to your GitHub repository
-- Set up automatic deploys from your default branch (or another of your choice).
-- Modify the swagger.json to reference your heroku url instead of localhost and to use https instead of http.
-- Commit and push this change
-- Test on Heroku until it all works.
+There will be no code in this class activity. This activity is meant to help students understand the need to validate data and how to think through that process; as well as how to handle errors...and what errors to look out for.
+
+- Open the [CSE 341 Class Activity 6 Template](https://docs.google.com/document/d/1iTkRr0A0Xk7Rt8mcevopuinQVUlH0j9EvQbFT0Dmj1M/edit?usp=sharing) document and work through the questions with a partner.
+- Click File then Make Copy (You will not be able to edit the original)
