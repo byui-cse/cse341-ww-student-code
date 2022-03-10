@@ -1,7 +1,9 @@
-# Repository Introduction
+# CSE341 Lesson 8 Class Start
 
 This repository contains a collection of code for students that take the CSE 341 course at Brigham Young University - Idaho.
 
-## How to use this repository
+## Steps to complete activity
 
-Each branch contains a collection of code for a given assignment or class activity. Select a branch, and then either clone, fork, or download the zip file to access the files on your computer.
+- Create a new Node project from scratch
+- Start here: https://auth0.com/docs/ and follow the docs for backend node.js api
+- Basically follow this [Youtube Tutorial](https://www.youtube.com/watch?v=QQwo4E_B0y8).
