@@ -22,3 +22,7 @@ The purpose of this activity is to give students experience working with MongoDB
 - Create a function in the controller that will retrieve the user and return it as json when the route is requested
 - Test the route using Rest Client
 - Once this is working, create another route, and another controller function to only return the username of the user
+
+## Solution
+
+[GitHub Repo](https://github.com/byui-cse/cse341-code-student/tree/L02-class-complete)
