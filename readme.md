@@ -1,4 +1,6 @@
-# CSE 341 Lesson 1 Class Activity Steps
+# CSE341 Lesson 1 Class Activity Start
+
+## Steps to complete activity
 
 - Create a new folder on your computer and open it in VS Code
 - Open the terminal and run: npm init
@@ -12,3 +14,7 @@
 - Create a routes folder with a file called index.js
 - Create a single route in that file that will call the function in the controller that you made
 - This can all be tested in the browser going to localhost:3000
+
+## Solution
+
+[GitHub Repo](https://github.com/byui-cse/cse341-code-student/tree/L01-class-complete)
