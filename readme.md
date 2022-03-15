@@ -4,7 +4,7 @@ The purpose of this activity is to help students understand what API Gateways an
 
 ## Group Tasks
 
-- Each group will receive a question from the list above
+- Each group will receive a question from the list below
 - Create a presentation to answer your question and teach the topic with various examples
 - Be prepared to answer questions related to your question
 - After a certain amount of time as determined by the instructor, present to the class.
