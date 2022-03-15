@@ -1,4 +1,6 @@
-# CSE 341 Lesson 5 Class Activity Steps
+# CSE341 Lesson 5 Class Activity
+
+## Steps to complete activity
 
 - Create a GitHub repository.
 - Clone it on your computer and open it in VS Code
@@ -16,3 +18,7 @@
 - Modify the swagger.json to reference your heroku url instead of localhost and to use https instead of http.
 - Commit and push this change
 - Test on Heroku until it all works.
+
+## Solution
+
+[GitHub Repo](https://github.com/byui-cse/cse341-code-student/tree/L05-class-complete)
