@@ -10,7 +10,7 @@ Get your node project up and running with npm i and npm start. Be sure to leave 
 
 ## CSE 341 Lesson 7 Class Activity Steps
 
-- Download the frontend code (from this repository branch) onto your computer and open the index.html file with live server. You will not change any code in the frontend code.
+- Download the [frontend code](https://github.com/byui-cse/cse341-code-student/tree/L07-class-frontend) onto your computer and open the index.html file with live server. You will not change any code in the frontend code.
 - Download the [backend starter template](https://github.com/byui-cse/cse341-code-student/tree/L07-class-start) onto your computer
 - Use this template to make a new node project with REST endpoints. You will use POST to send user login data and GET to grab all the data for the specific user.
 - While you're writing your code, test it with REST Client in VS Code to ensure it is working correctly.
