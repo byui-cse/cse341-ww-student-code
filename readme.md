@@ -1,6 +1,6 @@
 # Branch Introduction
 
-This is the frontend project that will be functional once the backend code for the lesson 7 class activity is complete
+This is the frontend project that will be functional once the backend code for the JWT class activity is complete
 
 ## How to use this repository
 
