@@ -1,6 +1,6 @@
-# Lesson 7 Class Solution
+# JWT Class Solution
 
-This is the completed collection of code for the lesson 7 class activity
+This is the completed collection of code for the jwt class activity
 
 ## Video
 
