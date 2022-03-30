@@ -1,6 +1,6 @@
-# Lesson 8 Class Solution
+# Lesson 7 Class Solution
 
-This is the completed collection of code for the lesson 8 class activity
+This is the completed collection of code for the lesson 7 class activity
 
 ## Video
 
