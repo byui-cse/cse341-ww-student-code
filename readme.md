@@ -1,4 +1,4 @@
-# CSE341 Lesson 7 Class Activity
+# CSE341 Lesson JWT Class Activity
 
 This code contains the starter Node.js backend template for the Lesson 7 class activity. You will build the backend to an application that already has an existing frontend using JWT for authentication.
 
@@ -10,7 +10,7 @@ Get your node project up and running with npm i and npm start. Be sure to leave 
 
 ## Steps to complete activity
 
-- Download the [frontend code](https://github.com/byui-cse/cse341-code-student/tree/L07-class-frontend) onto your computer and open the index.html file with live server. You will not change any code in the frontend code.
+- Download the [frontend code](https://github.com/byui-cse/cse341-code-student/tree/JWT-class-frontend) onto your computer and open the index.html file with live server. You will not change any code in the frontend code.
 - Download the backend starter template (this repository branch) onto your computer, open it, and familiarize yourself with it.
 - Use this template to make a new node project with REST endpoints. You will use POST to send user login data and GET to grab all the data for the specific user.
 - While you're writing your code, test it with REST Client in VS Code to ensure it is working correctly.
@@ -27,4 +27,4 @@ Get your node project up and running with npm i and npm start. Be sure to leave 
 - Clean up your REST Client .rest file and add comments for documentation for your backend.
 
 ## Solution
-Here is the [completed code example](https://github.com/byui-cse/cse341-code-student/tree/L07-class-complete).
+Here is the [completed code example](https://github.com/byui-cse/cse341-code-student/tree/JWT-class-complete).
