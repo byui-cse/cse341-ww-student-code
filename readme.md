@@ -1,4 +1,4 @@
-# CSE341 Lesson 8 Class Start
+# CSE341 Lesson 7 Class Start
 
 This repository contains a collection of code for students that take the CSE 341 course at Brigham Young University - Idaho.
 
@@ -31,4 +31,4 @@ This repository contains a collection of code for students that take the CSE 341
 - Create route for '/profile' to test middleware
 ## Solution
 
-[GitHub Repo](https://github.com/byui-cse/cse341-code-student/tree/L08-class-complete)
+[GitHub Repo](https://github.com/byui-cse/cse341-code-student/tree/L07-class-complete)
