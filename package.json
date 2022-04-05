@@ -1,0 +1,24 @@
+{
+  "name": "w04-class-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "swagger-autogen": "node ./swagger.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "morgan": "^1.10.0",
+    "swagger-ui-express": "^4.3.0"
+  },
+  "devDependencies": {
+    "swagger-autogen": "^2.20.7"
+  }
+}
