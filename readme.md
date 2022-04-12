@@ -23,11 +23,8 @@ The code for this class activity will pick up where the lesson 7 class activity 
 #### Incorporating OAuth
 
 - Add the requiresAuth() middleware provided by Auth0 to the route you created previously.
-- If you try testing your route with your Swagger UI now, it will not work.
-- You need to make the request using the JWT. [This article](https://poopcode.com/add-jwt-authentication-to-your-swagger-api-docs/) shows how you can do this with Swagger. You should end up with something like this:
-  ![alt text](./swag.png)
-- [This information](https://auth0.com/blog/node-js-and-express-tutorial-building-and-securing-restful-apis/) may be helpful in figuring out how to return the token to the frontend after a login takes place.
-- Now your requests can successfully be executed via the Swagger UI (given that you have a valid JWT).
+- Make sure you are logged out. If you try testing your route with your Swagger UI now, it will not work.
+- Go to /login again and log in like you did earlier. If you go back to /api-docs and test out your route, it will work!
 
 ## Solution
 
