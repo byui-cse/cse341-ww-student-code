@@ -13,7 +13,24 @@ The purpose of this activity is to give students experience working with MongoDB
 - Connect using MongoDB Compass, ensure it is installed, and you can connect using your username and password
 - Create a collection called user and add one user that has a single field called username and a value.
 - Create a folder in the root of your project called db
-- Create a file in db/ called connect.js that follows the implementation of the mongodb.js file posted by [SuleymanSah](https://stackoverflow.com/questions/58354629/moving-nodejs-mongodb-connection-code-to-another-file)
+- Create a file in db/ called connect.js that follows the implementation of the mongodb.js file posted by [SuleymanSah](https://stackoverflow.com/questions/58354629/moving-nodejs-mongodb-connection-code-to-another-file#--stacks-s-tooltip-7h4ggrdh)
+
+  - The one change that you'll have is just at the top of the file. You'll connect using your .env file MONGODB_URI like this:
+
+    ```
+      const dotenv = require('dotenv');
+      dotenv.config();
+      const MongoClient = require('mongodb').MongoClient;
+
+      let _db;
+
+      const initDb = (callback) => {
+
+      ...
+    ```
+
+  - The rest of the file will be the same, declaring **initDB**, **getDB**, and exporting both of them.
+
 - We don't want to store sensitive database information in a JavaScript file directly
 - You will move your sensitive db info to an environment variable file which will not go to GitHub or ever be published. You can get help setting this up with [this article](https://medium.com/@Hybeecodes/using-environment-variables-in-your-node-project-66f284cd9fe6)
 - Modify server.js to only listen() if mongodb connected successfully
